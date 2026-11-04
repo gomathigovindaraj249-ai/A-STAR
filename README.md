@@ -303,8 +303,9 @@ else:
 ```
 OUTPUT:
   
-   ![alt text](image-2.png)
-   ![alt text](image.png)
+<img width="632" height="377" alt="image" src="https://github.com/user-attachments/assets/984696e6-a816-498d-9b27-995e0df942ff" />
+<img width="935" height="787" alt="image" src="https://github.com/user-attachments/assets/d9ac5635-891f-4fcd-a7a2-4795a8517dad" />
+
 
 #RESULT:
 The Python program to Implement A * Search algorithm for a Graph has been executed successfully.
