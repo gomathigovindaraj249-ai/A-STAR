@@ -301,10 +301,8 @@ else:
         plt.show()
 
 ```
-OUTPUT:
-  
-<img width="632" height="377" alt="image" src="https://github.com/user-attachments/assets/984696e6-a816-498d-9b27-995e0df942ff" />
-<img width="935" height="787" alt="image" src="https://github.com/user-attachments/assets/d9ac5635-891f-4fcd-a7a2-4795a8517dad" />
+<img width="935" height="787" alt="image" src="https://github.com/user-attachments/assets/082ad4e4-4ff8-4e21-a5be-ac0883e0478b" />
+
 
 
 #RESULT:
