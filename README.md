@@ -119,7 +119,6 @@ G 0 <br>
 Path found: ['A', 'E', 'D', 'G']
 #PROGRAM:
 ```
-
 from collections import defaultdict
 import networkx as nx
 import matplotlib.pyplot as plt
@@ -299,11 +298,12 @@ else:
         plt.title("Shortest Path Highlighted (Red)")
         plt.axis("off")
         plt.show()
+``
 
-```
-<img width="935" height="787" alt="image" src="https://github.com/user-attachments/assets/082ad4e4-4ff8-4e21-a5be-ac0883e0478b" />
+OUTPUT :
 
-
+<img width="626" height="372" alt="image" src="https://github.com/user-attachments/assets/e85cb900-8ad5-437c-8acb-01e5c691fc7d" />
+<img width="938" height="788" alt="image" src="https://github.com/user-attachments/assets/f0dd56f5-fdc8-4ed9-8e81-a6ff330659a2" />
 
 #RESULT:
 The Python program to Implement A * Search algorithm for a Graph has been executed successfully.
