@@ -299,11 +299,12 @@ else:
         plt.title("Shortest Path Highlighted (Red)")
         plt.axis("off")
         plt.show()
-```
-#OUTPUT:
 
-![alt text](image.png)
-![alt text](image-1.png)
+```
+OUTPUT:
+  
+   ![alt text](image-2.png)
+   ![alt text](image.png)
 
 #RESULT:
 The Python program to Implement A * Search algorithm for a Graph has been executed successfully.
